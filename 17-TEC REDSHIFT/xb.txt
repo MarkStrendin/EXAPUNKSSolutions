@@ -1,0 +1,4 @@
+MAKE
+@REP 4
+COPY M F
+@END
